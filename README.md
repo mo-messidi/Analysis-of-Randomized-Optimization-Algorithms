@@ -1,8 +1,12 @@
 
 # Assignment 2 - Randomized Optimization
 
-The code for this assignment chooses three toy problems, but there are other options available in _ABAGAIL_. 
+## Code
 
+https://github.com/mo-messidi/Analysis-of-Randomized-Optimization-Algorithms
+
+The code for this assignment chooses three toy problems, but there are other options available in _ABAGAIL_. 
+All coding credit goes to Jonathan Tay, original code posted here: https://github.com/JonathanTay/CS-7641-assignment-2
 ## General
 
 If you are running this code in OS X you should consider downloading Jython directly. The version provided by homebrew does mot seem to work as expected for this code.
